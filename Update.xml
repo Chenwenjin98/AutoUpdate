@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <item>
   <version>2.0.0.0</version>
-  <url>https://raw.githubusercontent.com/Chenwenjin98/AutoUpdate/main/MyAppInstaller.exe</url>
+  <url>https://raw.githubusercontent.com/Chenwenjin98/AutoUpdate/main/Test.exe</url>
   <mandatory>false</mandatory>
   <changelog>https://raw.githubusercontent.com/Chenwenjin98/AutoUpdate/main/changelog.html</changelog>
 </item>
-
