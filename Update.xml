@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<item>
+  <version>2.0.0.0</version>
+  <url>https://yourserver.com/MyAppInstaller.exe</url>
+  <mandatory>false</mandatory>
+  <changelog>https://yourserver.com/changelog.html</changelog>
+</item>
